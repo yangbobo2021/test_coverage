@@ -1,4 +1,5 @@
 
 function test_fun() {
-  somejs2()
+  i = 20;
+  somejs2();
 }
