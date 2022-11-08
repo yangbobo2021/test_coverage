@@ -5,5 +5,5 @@ function somejs() {
 }
 
 function somejs2() {
-  return somejs() + 20;
+  return somejs() + 25;
 }
