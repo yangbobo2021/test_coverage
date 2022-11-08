@@ -4,6 +4,6 @@ void dosome1() {
 }
 
 void dosome2() {
-  int a = 30;
+  int a = 35;
   dosome1();
 }
