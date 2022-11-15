@@ -18,3 +18,7 @@ function somejs2() {
 function somejs3() {
   return somejs() + 35;
 }
+
+function somejs4() {
+  return somejs() + 35;
+}
